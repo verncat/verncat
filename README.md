@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @verncat
-- 👀 I’m interested in embedded and web programming
+- 👋 Hi, I’m @verncat 🐈
+- 👀 I’m interested in ⚙️ embedded and 🌐 web programming 
+- 💼 I’m working in Web
