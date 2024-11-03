@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @verncat
+- 👀 I’m interested in embedded and web programming
